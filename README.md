@@ -5,5 +5,7 @@ By building this app, I tried to automate routine manual work with Excel files. 
 Libraries: TkInter, PySide6, PyQt5, Pandas, openpyxl
 
 Symbol_Changer v.1.0 - TkInter + openpyxl
+
 Symbol_Changer v.2.0 - PySide6 + Pandas
+
 Symbol_Changer v.3.0 - PyQt5 + Pandas
